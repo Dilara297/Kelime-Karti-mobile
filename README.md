@@ -17,13 +17,13 @@ Bu uygulama, kullanıcıların kelime listeleri oluşturup bu listelere kelime e
 ## Kullanılan Teknolojiler
 
 **Backend (Django)**
-- Python 3.13
-- Django 5.x
+- Python 
+- Django 
 - Django REST Framework
 - SQLite
 
 **Frontend (Flutter)**
-- Flutter 3.x
+- Flutter 
 - Dart
 - http paketi (API istekleri için)
 
@@ -65,11 +65,6 @@ flutter pub get
 flutter run
 ```
 
-## Ekran Görüntüleri
-
-| Ana Sayfa | Kelimeler | Quiz Modu |
-|-----------|-----------|-----------|
-| Liste ekranı | Kelime kartları | Biliyorum/Bilmiyorum |
 
 ## API Endpointleri
 
