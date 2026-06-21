@@ -81,6 +81,4 @@ flutter run
 - Uygulama şu an yerel ağda çalışmaktadır
 - Django sunucusu ve telefon aynı WiFi ağında olmalıdır
 - `api_service.dart` içindeki IP adresini kendi ağınıza göre güncellemeniz gerekir
-- Uygulama şu an yerel ağda çalışmaktadır
-- Django sunucusu ve telefon aynı WiFi ağında olmalıdır
-- `api_service.dart` içindeki IP adresini kendi ağınıza göre güncellemeniz gerekir
+
